@@ -1,0 +1,26 @@
+                     📄 employees.csv
+                            │
+                            ▼
+              ┌────────────────────────┐
+              │      EXTRACT           │
+              │ Read CSV using Pandas  │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+              ┌────────────────────────┐
+              │     TRANSFORM          │
+              │ ✓ Remove Duplicates    │
+              │ ✓ Handle Null Values   │
+              │ ✓ Update Salary (+10%) │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+              ┌────────────────────────┐
+              │        LOAD            │
+              │   SQLite Database      │
+              │    employees.db        │
+              └──────────┬─────────────┘
+                         │
+                         ▼
+                 📊 Clean Data Ready
+                   for Analytics

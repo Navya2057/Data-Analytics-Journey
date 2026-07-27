@@ -1,0 +1,52 @@
+# Big Data & NoSQL
+
+## 📌 Project Overview
+
+This project demonstrates the basics of Big Data processing and NoSQL database operations using MongoDB and PySpark.
+
+## 🎯 Objectives
+
+- Learn NoSQL database concepts.
+- Perform CRUD operations in MongoDB.
+- Process large datasets using PySpark.
+
+## 🛠️ Technologies Used
+
+- Python
+- MongoDB
+- PySpark
+- Jupyter Notebook
+
+## 📂 Project Structure
+
+Big-Data-NoSQL/
+├── README.md
+├── mongodb_crud.py
+├── pyspark_analysis.ipynb
+├── employees.json
+└── screenshots/
+
+## MongoDB Operations
+
+- Create
+- Read
+- Update
+- Delete
+
+## PySpark Tasks
+
+- Load Dataset
+- Show Data
+- Filter Data
+- Group By
+- Count Records
+
+## Learning Outcomes
+
+- Understand Big Data fundamentals.
+- Perform basic NoSQL operations.
+- Analyze datasets using PySpark.
+
+## 👩‍💻 Author
+
+Navya Vashishth

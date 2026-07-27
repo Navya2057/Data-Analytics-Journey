@@ -1,0 +1,87 @@
+# Statistics & A/B Testing
+
+## 📌 Project Overview
+This project demonstrates statistical hypothesis testing and A/B testing using Python. It covers data cleaning, exploratory data analysis (EDA), hypothesis testing, p-value interpretation, and conclusions based on statistical significance.
+
+---
+
+## 📂 Files
+
+- hypothesis_testing.ipynb – Complete A/B testing analysis
+- stats_notes.md – Statistics and hypothesis testing notes
+- dataset.csv – Sample dataset
+- README.md – Project documentation
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+
+---
+
+## 📊 Workflow
+
+1. Import dataset
+2. Data cleaning
+3. Exploratory Data Analysis (EDA)
+4. Define hypotheses
+5. Perform Independent T-Test
+6. Calculate p-value
+7. Interpret results
+8. Draw conclusion
+
+---
+
+## 📖 Hypothesis
+
+- **Null Hypothesis (H₀):** There is no significant difference between Group A and Group B.
+- **Alternative Hypothesis (H₁):** There is a significant difference between Group A and Group B.
+
+---
+
+## 📈 Result
+
+The p-value obtained from the statistical test determines whether the null hypothesis should be rejected.
+
+- p-value < 0.05 → Reject H₀
+- p-value ≥ 0.05 → Fail to reject H₀
+
+---
+
+## 📚 Concepts Covered
+
+- Mean, Median & Mode
+- Standard Deviation
+- Variance
+- Probability
+- Normal Distribution
+- Hypothesis Testing
+- p-value
+- Significance Level
+- Type I & Type II Errors
+- Independent T-Test
+- A/B Testing
+
+---
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Statistical Testing
+- A/B Testing
+- Python Programming
+- Data Visualization
+- Decision Making using Statistics
+
+---
+
+## 👩‍💻 Author
+
+**Navya Vashishth**

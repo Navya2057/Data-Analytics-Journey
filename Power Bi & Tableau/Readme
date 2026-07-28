@@ -1,0 +1,63 @@
+# Sales Performance Dashboard using Power BI
+
+## Project Overview
+
+This project presents an interactive Sales Performance Dashboard built using Microsoft Power BI. The dashboard helps analyze sales, profit, customer segments, product categories, and regional performance.
+
+## Objectives
+
+- Analyze overall sales performance
+- Identify profitable categories
+- Compare regional sales
+- Track monthly sales trends
+- Discover top-performing products
+
+## Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel
+- DAX
+- Data Visualization
+
+## Dashboard Features
+
+- KPI Cards
+  - Total Sales
+  - Total Profit
+  - Total Orders
+
+- Monthly Sales Trend
+
+- Category-wise Sales
+
+- Region-wise Sales
+
+- Top 10 Products
+
+- Customer Segment Analysis
+
+- Interactive Filters (Region, Category, Segment)
+
+## Key Insights
+
+### 1. West Region generated the highest sales revenue.
+
+### 2. Technology category contributed the highest profit.
+
+### 3. Sales reached their highest level during November and December.
+
+## Files Included
+
+- dashboard.pbix
+- dashboard.pdf
+- Dataset
+- Dashboard Screenshots
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+- Power BI
+- DAX

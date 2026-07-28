@@ -1,0 +1,62 @@
+NumPy & Pandas for Data Analysis
+
+Overview
+
+This repository focuses on NumPy and Pandas, two essential Python libraries for data analysis and preprocessing. It includes practical examples, exercises, and notebooks covering data manipulation, transformation, and analysis.
+
+Topics Covered
+
+NumPy
+
+- NumPy Arrays
+- Array Indexing & Slicing
+- Reshaping Arrays
+- Mathematical Operations
+- Broadcasting
+- Aggregation Functions
+- Random Module
+- Linear Algebra Basics
+
+Pandas
+
+- Series & DataFrames
+- Reading CSV & Excel Files
+- Data Inspection
+- Filtering & Sorting
+- Handling Missing Values
+- Removing Duplicates
+- GroupBy Operations
+- Merge & Join
+- Pivot Tables
+- Data Transformation
+- Date & Time Operations
+- Exporting Processed Data
+
+Folder Structure
+
+NumPy-and-Pandas/
+│── NumPy/
+│── Pandas/
+│── Practice/
+│── Datasets/
+│── Notebooks/
+└── README.md
+
+Learning Outcomes
+
+- Perform efficient numerical computations using NumPy.
+- Analyze and manipulate datasets with Pandas.
+- Prepare datasets for Exploratory Data Analysis (EDA) and Machine Learning.
+- Build a strong foundation for Data Analytics and Data Science.
+
+Tools Used
+
+- Python 3.x
+- NumPy
+- Pandas
+- Jupyter Notebook
+- VS Code
+
+Status
+
+Actively learning and implementing real-world data analysis workflows using NumPy and Pandas.

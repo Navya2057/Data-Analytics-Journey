@@ -1,0 +1,5 @@
+- Removed duplicate rows
+- Handled missing values
+- Standardized column names
+- Converted date column to Date format
+- Checked data types

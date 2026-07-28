@@ -1,0 +1,125 @@
+Python Basics for Data Analytics
+1. Introduction to Python
+High-level programming language
+Easy to learn and read
+Widely used in Data Analytics, Data Science, Machine Learning, AI, and Automation
+Applications
+Data Analysis
+Data Visualization
+Machine Learning
+Automation
+Web Development
+2. Variables
+Variables are used to store data.
+Example:
+name = "Navya"
+age = 22
+salary = 50000
+3. Data Types
+int
+float
+string
+bool
+list
+tuple
+set
+dictionary
+Example:
+age = 22
+height = 5.4
+name = "Navya"
+is_student = True
+4. Operators
+Arithmetic
+Comparison
+Logical
+Assignment
+Membership
+Example:
+a = 10
+b = 5
+
+print(a+b)
+print(a>b)
+print(a==b)
+5. Input & Output
+name = input("Enter your name: ")
+print("Hello", name)
+6. Type Casting
+num = "20"
+
+print(int(num))
+print(float(num))
+7. Conditional Statements
+marks = 80
+
+if marks >= 40:
+    print("Pass")
+else:
+    print("Fail")
+8. Loops
+For Loop
+for i in range(5):
+    print(i)
+While Loop
+i = 1
+
+while i <= 5:
+    print(i)
+    i += 1
+9. Functions
+def add(a, b):
+    return a+b
+
+print(add(5,6))
+10. Lists
+fruits = ["Apple","Banana","Mango"]
+
+print(fruits[0])
+Common Methods
+append()
+remove()
+sort()
+reverse()
+11. Tuples
+marks = (80,90,95)
+12. Sets
+numbers = {1,2,3,4}
+13. Dictionaries
+student = {
+    "Name":"Navya",
+    "Age":22,
+    "Course":"B.Tech"
+}
+14. Strings
+Common Functions
+name = "Data Analytics"
+
+print(name.upper())
+print(name.lower())
+print(len(name))
+15. File Handling
+with open("sample.txt","w") as file:
+    file.write("Hello World")
+16. Exception Handling
+try:
+    print(10/0)
+except:
+    print("Division by Zero Error")
+17. Modules
+import math
+
+print(math.sqrt(25))
+18. Why Python for Data Analytics?
+Easy syntax
+Large community support
+Excellent libraries
+Handles large datasets efficiently
+Integrates with SQL, Excel, Power BI, Tableau, and Machine Learning
+Popular Libraries
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+Plotly

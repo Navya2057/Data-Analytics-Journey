@@ -1,0 +1,48 @@
+# Exploratory Data Analysis (EDA)
+
+## Objective
+Analyze the dataset to discover trends, patterns, correlations, and outliers.
+
+## Dataset
+Titanic Dataset
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Steps Performed
+
+- Data Loading
+- Data Cleaning
+- Missing Value Analysis
+- Duplicate Removal
+- Descriptive Statistics
+- Correlation Analysis
+- Data Visualization
+
+## Visualizations
+
+- Histogram
+- Box Plot
+- Count Plot
+- Scatter Plot
+- Correlation Heatmap
+
+## Key Insights
+
+1. Female passengers had a higher survival rate.
+2. First-class passengers survived more frequently.
+3. Younger passengers had better survival chances.
+4. Fare positively correlated with survival.
+
+## Skills Demonstrated
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- EDA
+- Data Cleaning

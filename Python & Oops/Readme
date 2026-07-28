@@ -1,0 +1,55 @@
+Python & Object-Oriented Programming (OOP)
+
+Overview
+
+This repository contains Python programming concepts from beginner to intermediate level, with a strong focus on Object-Oriented Programming (OOP). It includes theory, hands-on examples, and practice exercises to build a solid programming foundation.
+
+Topics Covered
+
+- Python Basics
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Modules & Packages
+- File Handling
+- Exception Handling
+- Object-Oriented Programming (OOP)
+  - Classes & Objects
+  - Constructors
+  - Encapsulation
+  - Inheritance
+  - Polymorphism
+  - Abstraction
+  - Method Overriding
+  - Method Overloading (Concept)
+- Iterators & Generators
+- Lambda Functions
+- List, Dictionary & Set Comprehensions
+
+Folder Structure
+
+Python-and-OOPs/
+│── Notes/
+│── Practice/
+│── Assignments/
+│── Mini Projects/
+└── README.md
+
+Learning Outcomes
+
+- Build a strong understanding of Python fundamentals.
+- Apply OOP principles to write clean and reusable code.
+- Improve problem-solving and logical thinking.
+- Prepare for coding interviews and technical assessments.
+
+Tools Used
+
+- Python 3.x
+- Jupyter Notebook
+- VS Code
+
+Status
+
+Completed basic concepts and continuously adding practice problems and mini projects.
